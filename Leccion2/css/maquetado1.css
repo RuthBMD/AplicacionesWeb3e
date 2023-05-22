@@ -33,7 +33,7 @@ header{
     border-bottom: 2.5px solid black;
     border-left:5px solid black;
 }
-.banner{
+#banner{
     background-color: aliceblue;
     width: 800px;
     height: 290px;
@@ -58,7 +58,6 @@ header{
 }
 
 main{
-    /* width: initial; */
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: gray;
     border-top: 2.5px solid black;
